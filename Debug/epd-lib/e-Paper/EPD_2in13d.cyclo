@@ -1,0 +1,7 @@
+EPD_2in13d.c:206:13:EPD_SetFullReg	6
+EPD_2in13d.c:187:6:EPD_WaitUntilIdle	2
+EPD_2in13d.c:292:7:EPD_Init	1
+EPD_2in13d.c:335:6:EPD_Clear	5
+EPD_2in13d.c:363:6:EPD_Display	5
+EPD_2in13d.c:393:6:EPD_DisplayPartial	10
+EPD_2in13d.c:435:6:EPD_Sleep	1

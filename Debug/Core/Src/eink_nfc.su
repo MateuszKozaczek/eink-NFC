@@ -1,0 +1,12 @@
+../Core/Src/eink_nfc.c:34:6:EINK_NFC_DATA_EXTRACT	8	static
+../Core/Src/eink_nfc.c:110:6:EINK_NFC_SET_SIZE	8	static
+../Core/Src/eink_nfc.c:149:6:EINK_NFC_GET_BLEACHING	8	static
+../Core/Src/eink_nfc.c:168:6:EINK_NFC_GET_DRYING	8	static
+../Core/Src/eink_nfc.c:217:6:EINK_NFC_GET_IRONING	8	static
+../Core/Src/eink_nfc.c:240:6:EINK_NFC_GET_PROF	8	static
+../Core/Src/eink_nfc.c:290:6:EINK_NFC_SET_WASHING	8	static
+../Core/Src/eink_nfc.c:341:6:EINK_NFC_SET_BLEACHING	8	static
+../Core/Src/eink_nfc.c:360:6:EINK_NFC_SET_DRYING	8	static
+../Core/Src/eink_nfc.c:409:6:EINK_NFC_SET_IRONING	8	static
+../Core/Src/eink_nfc.c:432:6:EINK_NFC_SET_PROF	8	static
+../Core/Src/eink_nfc.c:38:6:EINK_NFC_Parser	16	static

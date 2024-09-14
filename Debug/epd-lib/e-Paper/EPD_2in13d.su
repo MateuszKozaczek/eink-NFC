@@ -1,0 +1,7 @@
+../epd-lib/e-Paper/EPD_2in13d.c:206:13:EPD_SetFullReg	16	static
+../epd-lib/e-Paper/EPD_2in13d.c:187:6:EPD_WaitUntilIdle	8	static
+../epd-lib/e-Paper/EPD_2in13d.c:292:7:EPD_Init	24	static
+../epd-lib/e-Paper/EPD_2in13d.c:335:6:EPD_Clear	16	static
+../epd-lib/e-Paper/EPD_2in13d.c:363:6:EPD_Display	24	static
+../epd-lib/e-Paper/EPD_2in13d.c:393:6:EPD_DisplayPartial	24	static
+../epd-lib/e-Paper/EPD_2in13d.c:435:6:EPD_Sleep	24	static

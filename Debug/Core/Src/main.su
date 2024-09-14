@@ -1,0 +1,7 @@
+../Core/Src/main.c:280:10:I2C1_ReadReg16	32	static
+../Core/Src/main.c:297:9:I2C1_WriteReg16	32	static
+../Core/Src/main.c:75:1:__io_putchar	16	static
+../Core/Src/main.c:220:6:SystemClock_Config	120	static,ignoring_inline_asm
+../Core/Src/main.c:268:6:I2C1_Init_Reg	32	static
+../Core/Src/main.c:91:5:main	912	static
+../Core/Src/main.c:320:6:Error_Handler	0	static,ignoring_inline_asm
